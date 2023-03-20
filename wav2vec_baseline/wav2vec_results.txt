@@ -1,4 +1,0 @@
-The avg WER primary: 0.08449868632934972
-The avg WER other: 0.1279438405797102
-The number of test samples from primary countries: 513
-The number of test samples from other countries: 64
