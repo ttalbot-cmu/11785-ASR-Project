@@ -15,3 +15,4 @@
 
 **whisper_baseline:** Evaluation of the whisper pretrained ASR on the GMU Speech Accent Archive. Average WER and WIL result plots included. Reference for Whisper ASR ().
 
+**data_visualization:** Contains notebooks for plotting the relative performance of our baseline models and the results of finetuning Whisper ASR.
