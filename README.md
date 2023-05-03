@@ -4,7 +4,7 @@
 
 **accent_embeddings1:** Initial attempt at creating an accent identification network using a custom network with a CNN + Transformer.
 
-**accent_embeddings2:** Secondary attempt at creating an accent idenitifcation network with SpeechBrain's encoder classifier. Reference for SpeechBrain ().  
+**accent_embeddings2:** Secondary attempt at creating an accent idenitifcation network with SpeechBrain's encoder classifier. Reference for SpeechBrain's Encoder Classifer (https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb).  
 
 **deepspeech_baseline:** Evaluation of the deepspeech pretrained ASR on the GMU Speech Accent Archive. Average WER and WIL result plots included. Reference for deepspeech (https://github.com/mozilla/DeepSpeech). 
 
