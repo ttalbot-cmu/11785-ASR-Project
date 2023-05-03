@@ -2,9 +2,9 @@
 
 **Overview**
 
-**accent_identification:** Initial attempt at creating an accent identification network using a custom network with a CNN + Transformer.
+**accent_embeddings1:** Initial attempt at creating an accent identification network using a custom network with a CNN + Transformer.
 
-**Accent Embeddings:** Secondary attempt at creating an accent idenitifcation network with a pretrained model. 
+**accent_embeddings2:** Secondary attempt at creating an accent idenitifcation network with a pretrained model. 
 
 
 **deepspeech_baseline:** Evaluation of the deepspeech pretrained ASR on the GMU Speech Accent Archive. Average WER and WIL results plots included. Reference for deepspeech (https://github.com/mozilla/DeepSpeech). 
