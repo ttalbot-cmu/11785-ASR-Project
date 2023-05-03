@@ -13,6 +13,6 @@
 
 **wav2vec_baseline:** Evaluation of the wav2vec pretained ASR from Meta AI. Reference for wav2vec2.0 (https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/). 
 
-**whisper_baseline:** Evaluation of the whisper pretrained ASR on the GMU Speech Accent Archive. Average WER and WIL result plots included. Reference for Whisper ASR ().
+**whisper_baseline:** Evaluation of the whisper pretrained ASR on the GMU Speech Accent Archive. Average WER and WIL result plots included. Reference for Whisper ASR (https://openai.com/research/whisper).
 
 **data_visualization:** Contains notebooks for plotting the relative performance of our baseline models and the results of finetuning Whisper ASR.
